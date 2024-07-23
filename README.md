@@ -19,5 +19,6 @@
 Для начала, клонируйте репозиторий на вашу локальную машину:
 
 ```bash
-git clone https://github.com/yourusername/VectorCalc.git
+
+
 cd VectorCalc
